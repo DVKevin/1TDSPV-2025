@@ -1,0 +1,35 @@
+.hero-container{
+    display:flex;
+    gap: 20px;
+}
+.hero-box{
+    width: 300px;
+    margin: 0 auto;
+    background-color: #eee;
+    text-align: center;
+    border-radius: 15px;
+    border-bottom-width: 5px;
+    border-color: #0a74da;
+    border-style: solid;
+    box-shadow: black  5px 5px 5px;
+}
+.hero-box img{
+    width: 250px;
+    height: 200px;
+}
+.box-backgroud{
+    background-color: black;
+    
+}
+#homem-de-ferro{
+    color: #c62828;
+    border-color: #c62828;
+}
+#capitao-america{
+    color: #0a74da;
+    border-color: #0a74da;
+}
+#thor{
+    color: bisque;
+    border-color: bisque;
+}
